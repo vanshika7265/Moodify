@@ -1,0 +1,22 @@
+{
+  "Happy": {
+    "color": "#f6d365",
+    "activities": ["Dance", "Sing", "Smile!"],
+    "playlist": "https://open.spotify.com/embed/playlist/37i9dQZF1DXdPec7aLTmlC"
+  },
+  "Sad": {
+    "color": "#667eea",
+    "activities": ["Meditate", "Write Journal", "Listen Calm Music"],
+    "playlist": "https://open.spotify.com/embed/playlist/37i9dQZF1DX7qK8ma5wgG1"
+  },
+  "Relaxed": {
+    "color": "#38f9d7",
+    "activities": ["Yoga", "Read", "Walk in Nature"],
+    "playlist": "https://open.spotify.com/embed/playlist/37i9dQZF1DX3Ogo9pFvBkY"
+  },
+  "Energetic": {
+    "color": "#fddb92",
+    "activities": ["Workout", "Run", "Dance Party"],
+    "playlist": "https://open.spotify.com/embed/playlist/37i9dQZF1DX8FmtpJWxXkJ"
+  }
+}
